@@ -1,5 +1,17 @@
 # Knowledge - Base de Conhecimento
 
+# 🎥 Visão Geral:
+
+<h3><b>Apresentação:</b> </h3>
+
+![](/versao-inicial/frontend/.github/apresentation.gif)
+
+<hr>
+
+<h3><b>Tela de cadastro:</b></h3>
+
+![](/versao-inicial/frontend/.github/registerUser.gif)
+
 # 📖 Descrição:
 
 - Projeto realizado no curso de Desenvolvimento Web da <a href="https://www.cod3r.com.br/">Cod3r-Cursos</a>.
@@ -41,15 +53,3 @@
 - pg
 - pm2
 <hr>
-
-# 🎥 Visão Geral:
-
-<h3><b>Apresentação:</b> </h3>
-
-![](/versao-inicial/frontend/.github/apresentation.gif)
-
-<hr>
-
-<h3><b>Tela de cadastro:</b></h3>
-
-![](/versao-inicial/frontend/.github/registerUser.gif)
