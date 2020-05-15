@@ -1,6 +1,6 @@
 <template>
   <header class="header">
-    <a href class="toggle" @click="toggleMenu" v-if="!hideToggle">
+    <a class="toggle" @click="toggleMenu" v-if="!hideToggle">
       <i class="fa fa-lg" :class="icon"></i>
     </a>
     <h1 class="title">
